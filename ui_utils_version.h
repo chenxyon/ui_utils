@@ -1,0 +1,4 @@
+﻿#ifndef UI_UTILS_VERSION_H
+#define UI_UTILS_VERSION_H
+#define UI_UTILS_VERSION_STRING   "1.0.0"
+#endif /* UI_UTILS_VERSION_H */

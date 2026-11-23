@@ -1,0 +1,13 @@
+{
+    "name": "ui_utils",
+    "version": "1.0.0",
+    "description": "UI 工具组件：通用 UI 工具（UiUtils）、UI 管理器/桌面启动器（UiManager）、输入设备（InputDevice）、设置界面（SettingsUi）、恢复出厂设置触发（UiReset）、版本检查（VersionCheck）",
+    "keywords": "ui, lvgl, desktop, input, settings, keypad, touchpad",
+    "author": "chenxyon",
+    "license": "MIT",
+    "frameworks": "espidf",
+    "platforms": ["espressif32"],
+    "dependencies": {
+        "lvgl/lvgl": "^9.2.0"
+    }
+}
